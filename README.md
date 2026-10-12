@@ -1,5 +1,11 @@
 # NOX DETAIL — Automotive Care Studio
 
+## Autoria
+
+Este site foi desenvolvido por **Daniel Murakami**.
+
+**Portfólio:** [portfoliomurakami.netlify.app](https://portfoliomurakami.netlify.app/)
+
 Landing page conceitual de estética automotiva premium. Marca 100% fictícia; Campinas, SP é uma localização conceitual. Não há operação comercial, envio de dados, reservas, pagamentos ou vínculo com fabricantes.
 
 ## Abrir o projeto
